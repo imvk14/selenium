@@ -46,6 +46,7 @@ public void f() throws InterruptedException
 		Thread.sleep(3000);
 		driver.findElement(By.xpath("//*[@id='welcome-menu']/ul/li[3]/a")).click();
 		System.out.println("i m vinesh");
+	        System.out.println("i m vinesh");
 		
 }
  @AfterTest
